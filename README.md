@@ -13,7 +13,7 @@ ID : 221-134-021
 hosting link - 
 [link here ](https://todo-app-134007.netlify.app/)
 
-# see how the app works :
+# Here is the short video showing how the app works :
 https://github.com/007fahmida/MERN-TODO---Frontend/assets/121882323/905c1dec-4990-43b8-a1cd-e290abf6c7f0
 
 
