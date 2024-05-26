@@ -14,7 +14,7 @@ hosting link -
 [link here ](https://todo-app-134007.netlify.app/)
 
 # see how the app works :
-[app video](https://github.com/007fahmida/MERN-TODO---Frontend/assets/121882323/905c1dec-4990-43b8-a1cd-e290abf6c7f0]
+https://github.com/007fahmida/MERN-TODO---Frontend/assets/121882323/905c1dec-4990-43b8-a1cd-e290abf6c7f0
 
 
 # here is the Backend-part :
