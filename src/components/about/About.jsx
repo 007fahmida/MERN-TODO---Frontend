@@ -10,7 +10,7 @@ const About = () => {
         </div>
         <p>
           <em>
-            Welcome to <b>tOdO</b>, your ultimate productivity companion.
+            Welcome to <b>todo</b>, your ultimate productivity companion.
           </em>
         </p>
         <p>
@@ -42,7 +42,7 @@ const About = () => {
         </p>
         <p>
           <em>
-            Stay organized, stay productive, stay awesome with <b>tOdO</b>!
+            Stay organized, stay productive, stay awesome with todo!
           </em>
         </p>
       </div>
