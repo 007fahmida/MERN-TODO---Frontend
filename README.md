@@ -13,5 +13,11 @@ ID : 221-134-021
 hosting link - 
 [link here ](https://todo-app-134007.netlify.app/)
 
-here is Backend-part :
+# see how the app works :
+[app video](https://github.com/007fahmida/MERN-TODO---Frontend/assets/121882323/905c1dec-4990-43b8-a1cd-e290abf6c7f0]
+
+
+# here is the Backend-part :
 [link here ](https://github.com/007fahmida/MERN-TODO---Backend/tree/main)
+
+
