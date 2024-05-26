@@ -1,15 +1,17 @@
-.home{
-    width:100%;
-    height:100vh;
+.home {
+    width: 100%;
+    height: 100vh;
 }
-.home h1{
+
+.home h1 {
     font-size: 60px;
 }
-.home-btn{
+
+.home-btn {
     border: none;
     outline: none;
-    background-color:rgb(240, 0, 0, 0.87);
-    border-radius:5px;
-    color:white !important;
+    background-color: rgb(240, 0, 0, 0.87);
+    border-radius: 5px;
+    background-image: radial-gradient(circle 986.6px at 10% 20%, rgba(251, 6, 6, 0.94) 0%, rgba(3, 31, 213, 1) 82.8%, rgba(248, 101, 248, 1) 87.9%);
     font-weight: bold;
 }
