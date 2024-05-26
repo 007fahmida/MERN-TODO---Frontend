@@ -10,7 +10,8 @@ ID : 213-134-007
 ID : 221-134-021
 
 # app-link : 
+hosting link - 
 [link here ](https://todo-app-134007.netlify.app/)
 
-#here is Backend-part :
+here is Backend-part :
 [link here ](https://github.com/007fahmida/MERN-TODO---Backend/tree/main)
